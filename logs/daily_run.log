@@ -1,0 +1,174 @@
+[Thu 04/02/2026 13:34:49.77] Starting daily pipeline 
+RUNNING FILE: D:\Projects\aav-research-agent\main.py
+PROJECT_ROOT = D:\Projects\aav-research-agent
+SRC_PATH = D:\Projects\aav-research-agent\src
+sys.path[0] = D:\Projects\aav-research-agent\src
+find_spec(aav_agent) = ModuleSpec(name='aav_agent', loader=<_frozen_importlib_external.SourceFileLoader object at 0x00000176B87E5310>, origin='D:\\Projects\\aav-research-agent\\src\\aav_agent\\__init__.py', submodule_search_locations=['D:\\Projects\\aav-research-agent\\src\\aav_agent'])
+SRC_PATH: D:\Projects\aav-research-agent\src
+Is SRC_PATH in sys.path? True
+sys.path[0]: D:\Projects\aav-research-agent\src
+D:\Projects\aav-research-agent\src
+Environment is configured correctly.
+[Thu 04/02/2026 13:34:51.70] Finished daily pipeline 
+ 
+[Thu 04/02/2026 13:47:23.35] Starting daily pipeline 
+RUNNING FILE: D:\Projects\aav-research-agent\main.py
+PROJECT_ROOT = D:\Projects\aav-research-agent
+SRC_PATH = D:\Projects\aav-research-agent\src
+sys.path[0] = D:\Projects\aav-research-agent\src
+find_spec(aav_agent) = ModuleSpec(name='aav_agent', loader=<_frozen_importlib_external.SourceFileLoader object at 0x000002BDD5ABDE50>, origin='D:\\Projects\\aav-research-agent\\src\\aav_agent\\__init__.py', submodule_search_locations=['D:\\Projects\\aav-research-agent\\src\\aav_agent'])
+SRC_PATH: D:\Projects\aav-research-agent\src
+Is SRC_PATH in sys.path? True
+sys.path[0]: D:\Projects\aav-research-agent\src
+D:\Projects\aav-research-agent\src
+Environment is configured correctly.
+Processing paper: Modulation épigénétique par le ciblage de l'hyperméthylation de l'ADN et son lien avec l'âge épigénétique dans l'hypertension artérielle pulmonaire
+Traceback (most recent call last):
+  File "D:\Projects\aav-research-agent\main.py", line 121, in <module>
+    main()
+  File "D:\Projects\aav-research-agent\main.py", line 116, in main
+    digest_path.write_text(full_digest, encoding="utf-8")
+                           ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'full_digest' where it is not associated with a value
+[Thu 04/02/2026 13:47:25.29] Finished daily pipeline 
+ 
+[Thu 04/02/2026 13:48:45.89] Starting daily pipeline 
+RUNNING FILE: D:\Projects\aav-research-agent\main.py
+PROJECT_ROOT = D:\Projects\aav-research-agent
+SRC_PATH = D:\Projects\aav-research-agent\src
+sys.path[0] = D:\Projects\aav-research-agent\src
+find_spec(aav_agent) = ModuleSpec(name='aav_agent', loader=<_frozen_importlib_external.SourceFileLoader object at 0x0000020F80CDDD90>, origin='D:\\Projects\\aav-research-agent\\src\\aav_agent\\__init__.py', submodule_search_locations=['D:\\Projects\\aav-research-agent\\src\\aav_agent'])
+SRC_PATH: D:\Projects\aav-research-agent\src
+Is SRC_PATH in sys.path? True
+sys.path[0]: D:\Projects\aav-research-agent\src
+D:\Projects\aav-research-agent\src
+Environment is configured correctly.
+Processing paper: Modulation épigénétique par le ciblage de l'hyperméthylation de l'ADN et son lien avec l'âge épigénétique dans l'hypertension artérielle pulmonaire
+
+--- PAPER ---
+Title: Modulation épigénétique par le ciblage de l'hyperméthylation de l'ADN et son lien avec l'âge épigénétique dans l'hypertension artérielle pulmonaire
+Link: https://corpus.ulaval.ca/bitstreams/5778e69c-167d-4278-b626-8a8f9660bc88/download
+Using fallback (title-only summary)
+
+--- SUMMARY ---
+- Key idea: The study explores the role of DNA hypermethylation in the epigenetic modulation associated with pulmonary arterial hypertension and its correlation with biological aging.  
+- Method: The research likely involves analyzing DNA methylation patterns and their effects on gene expression in the context of pulmonary arterial hypertension, although specific methods are not provided.  
+- Why it matters: Understanding the epigenetic mechanisms underlying pulmonary arterial hypertension could lead to novel therapeutic strategies and insights into the disease's relationship with aging.
+Error processing paper 'Modulation épigénétique par le ciblage de l'hyperméthylation de l'ADN et son lien avec l'âge épigénétique dans l'hypertension artérielle pulmonaire': cannot access local variable 'full_digest' where it is not associated with a value
+Skipping to next paper.
+Traceback (most recent call last):
+  File "D:\Projects\aav-research-agent\main.py", line 121, in <module>
+    main()
+  File "D:\Projects\aav-research-agent\main.py", line 116, in main
+    digest_path.write_text(full_digest, encoding="utf-8")
+                           ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'full_digest' where it is not associated with a value
+[Thu 04/02/2026 13:48:54.09] Finished daily pipeline 
+ 
+[Thu 04/02/2026 13:53:33.52] Starting daily pipeline 
+RUNNING FILE: D:\Projects\aav-research-agent\main.py
+PROJECT_ROOT = D:\Projects\aav-research-agent
+SRC_PATH = D:\Projects\aav-research-agent\src
+sys.path[0] = D:\Projects\aav-research-agent\src
+find_spec(aav_agent) = ModuleSpec(name='aav_agent', loader=<_frozen_importlib_external.SourceFileLoader object at 0x000001DF0B3CE000>, origin='D:\\Projects\\aav-research-agent\\src\\aav_agent\\__init__.py', submodule_search_locations=['D:\\Projects\\aav-research-agent\\src\\aav_agent'])
+SRC_PATH: D:\Projects\aav-research-agent\src
+Is SRC_PATH in sys.path? True
+sys.path[0]: D:\Projects\aav-research-agent\src
+D:\Projects\aav-research-agent\src
+Environment is configured correctly.
+Processing paper: Modulation épigénétique par le ciblage de l'hyperméthylation de l'ADN et son lien avec l'âge épigénétique dans l'hypertension artérielle pulmonaire
+
+--- PAPER ---
+Title: Modulation épigénétique par le ciblage de l'hyperméthylation de l'ADN et son lien avec l'âge épigénétique dans l'hypertension artérielle pulmonaire
+Link: https://corpus.ulaval.ca/bitstreams/5778e69c-167d-4278-b626-8a8f9660bc88/download
+Using fallback (title-only summary)
+
+--- SUMMARY ---
+- Key idea: The study explores the role of DNA hypermethylation in the epigenetic modulation associated with pulmonary arterial hypertension and its correlation with biological aging.  
+- Method: The research likely involves analyzing DNA methylation patterns and their effects on gene expression in the context of pulmonary arterial hypertension, although specific methods are not detailed.  
+- Why it matters: Understanding the epigenetic mechanisms underlying pulmonary arterial hypertension could lead to novel therapeutic strategies and insights into the disease's relationship with aging.
+Error processing paper 'Modulation épigénétique par le ciblage de l'hyperméthylation de l'ADN et son lien avec l'âge épigénétique dans l'hypertension artérielle pulmonaire': cannot access local variable 'full_digest' where it is not associated with a value
+Skipping to next paper.
+Traceback (most recent call last):
+  File "D:\Projects\aav-research-agent\main.py", line 122, in <module>
+    main()
+  File "D:\Projects\aav-research-agent\main.py", line 114, in main
+    print(full_digest)
+          ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'full_digest' where it is not associated with a value
+[Thu 04/02/2026 13:53:40.05] Finished daily pipeline 
+ 
+[Thu 04/02/2026 13:55:52.97] Starting daily pipeline 
+RUNNING FILE: D:\Projects\aav-research-agent\main.py
+PROJECT_ROOT = D:\Projects\aav-research-agent
+SRC_PATH = D:\Projects\aav-research-agent\src
+sys.path[0] = D:\Projects\aav-research-agent\src
+find_spec(aav_agent) = ModuleSpec(name='aav_agent', loader=<_frozen_importlib_external.SourceFileLoader object at 0x000001FCDFAFA4B0>, origin='D:\\Projects\\aav-research-agent\\src\\aav_agent\\__init__.py', submodule_search_locations=['D:\\Projects\\aav-research-agent\\src\\aav_agent'])
+SRC_PATH: D:\Projects\aav-research-agent\src
+Is SRC_PATH in sys.path? True
+sys.path[0]: D:\Projects\aav-research-agent\src
+D:\Projects\aav-research-agent\src
+Environment is configured correctly.
+Processing paper: Modulation épigénétique par le ciblage de l'hyperméthylation de l'ADN et son lien avec l'âge épigénétique dans l'hypertension artérielle pulmonaire
+Daily Research Digest
+Generated on: 2026-04-02 13:55:55.350534
+
+
+Traceback (most recent call last):
+  File "D:\Projects\aav-research-agent\main.py", line 73, in main
+    print(f"Processing paper: {paper.title}")
+  File "C:\Users\denni\AppData\Roaming\uv\python\cpython-3.12-windows-x86_64-none\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2010' in position 85: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Projects\aav-research-agent\main.py", line 124, in <module>
+    main()
+  File "D:\Projects\aav-research-agent\main.py", line 109, in main
+    print(f"Error processing paper '{paper.title}': {e}")
+  File "C:\Users\denni\AppData\Roaming\uv\python\cpython-3.12-windows-x86_64-none\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2010' in position 91: character maps to <undefined>
+[Thu 04/02/2026 13:55:55.42] Finished daily pipeline 
+ 
+[Thu 04/02/2026 14:01:49.12] Starting daily pipeline 
+RUNNING FILE: D:\Projects\aav-research-agent\main.py
+PROJECT_ROOT = D:\Projects\aav-research-agent
+SRC_PATH = D:\Projects\aav-research-agent\src
+sys.path[0] = D:\Projects\aav-research-agent\src
+find_spec(aav_agent) = ModuleSpec(name='aav_agent', loader=<_frozen_importlib_external.SourceFileLoader object at 0x0000013FBBC1A450>, origin='D:\\Projects\\aav-research-agent\\src\\aav_agent\\__init__.py', submodule_search_locations=['D:\\Projects\\aav-research-agent\\src\\aav_agent'])
+SRC_PATH: D:\Projects\aav-research-agent\src
+Is SRC_PATH in sys.path? True
+sys.path[0]: D:\Projects\aav-research-agent\src
+D:\Projects\aav-research-agent\src
+Environment is configured correctly.
+Processing paper: Modulation épigénétique par le ciblage de l'hyperméthylation de l'ADN et son lien avec l'âge épigénétique dans l'hypertension artérielle pulmonaire
+Daily Research Digest
+Generated on: 2026-04-02 14:01:51.003642
+
+
+Traceback (most recent call last):
+  File "D:\Projects\aav-research-agent\main.py", line 73, in main
+    print(f"Processing paper: {paper.title}")
+  File "C:\Users\denni\AppData\Roaming\uv\python\cpython-3.12-windows-x86_64-none\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2010' in position 85: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Projects\aav-research-agent\main.py", line 124, in <module>
+    main()
+  File "D:\Projects\aav-research-agent\main.py", line 109, in main
+    print(f"Error processing paper '{paper.title}': {e}")
+  File "C:\Users\denni\AppData\Roaming\uv\python\cpython-3.12-windows-x86_64-none\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2010' in position 91: character maps to <undefined>
+[Thu 04/02/2026 14:01:51.09] Finished daily pipeline 
+ 

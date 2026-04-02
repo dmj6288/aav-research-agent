@@ -1,6 +1,18 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+
+# Virtual env
+.venv/
+env/
+
+# Environment variables
 .env
-.ipynb_checkpoints/
-data/raw/
-data/processed/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
